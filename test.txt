@@ -2,5 +2,3 @@
 [CQ:image,file={1E87F84E-CB8A-E9DD-FAF3-CE0B3B9F1785}.mirai.mnimg]
 [改三型传奇面包人]死奏憐音    2020/8/5 21:51:17
 [CQ:image,file={79AD86B0-2F14-9C09-E64F-3101D591C19A}.mirai.mnimg]
-
-上一次保存 test.txt
